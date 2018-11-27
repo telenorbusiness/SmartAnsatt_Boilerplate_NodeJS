@@ -1,0 +1,19 @@
+{
+  "name": "sa_boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate example for Smart Ansatt",
+  "author": "Telenor Norge AS",
+  "repository": "https://github.com/telenorbusiness/SmartAnsatt_Boilerplate_NodeJS",
+  "license": "MIT",
+  "scripts": {
+    "start": "node -r esm server.js"
+  },
+  "dependencies": {
+    "jose": "^0.3.2",
+    "cors": "^2.8.3",
+    "body-parser": "^1.17.2",
+    "express": "^4.16.3",
+    "esm": "^3.0.84",
+    "openid-client": "^1.20.0"
+  }
+}
