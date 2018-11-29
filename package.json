@@ -5,6 +5,7 @@
   "author": "Telenor Norge AS",
   "repository": "https://github.com/telenorbusiness/SmartAnsatt_Boilerplate_NodeJS",
   "license": "MIT",
+  "main": "server.js",
   "scripts": {
     "start": "node -r esm server.js"
   },
